@@ -11,6 +11,10 @@ public class Main {
 
         System.out.println("22");
 
+<<<<<<< HEAD
+=======
+        System.out.println("33");
+>>>>>>> master
 
     }
 }
