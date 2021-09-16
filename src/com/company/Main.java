@@ -6,8 +6,11 @@ public class Main {
 	// write your code here
         System.out.println("Hello World!");
 
+<<<<<<< HEAD
         System.out.println("22");
 
         System.out.println("33");
+=======
+>>>>>>> master
     }
 }
