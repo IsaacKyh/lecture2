@@ -5,11 +5,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        System.out.print("No!, ");
-
         System.out.println("Hello World!");
 
-        System.out.println("22");
 
         System.out.println("33");
 
